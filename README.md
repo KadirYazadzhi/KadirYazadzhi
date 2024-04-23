@@ -1,5 +1,6 @@
 ### Hi there, I'm Kadir 👋
 ### I'm a C++/C# Developer and Full Stack Web Developer
+---
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -8,12 +9,27 @@
 - 🤔 I’m looking for help with find a work as programmer.
 - 💬 Ask me about everything in programming.
 - 📫 How to reach me: kadiryazadzhi@gmail.com
+- 🌐 You can find more information about me on my website: https://kadiryazadzhi.github.io/portfolio/
+
+---
 
 ### Connect with me:
+<div style="display: flex; align-items: center; margin: 10px">
+    <a href="https://www.instagram.com/_qzadji_?igsh=bGx3djFjeHhheTFm" style="text-decoration: none;">
+        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="30px" style="padding-right: 20px;">
+    </a>
+    <a href="https://www.facebook.com/kadir.yazadji.1" style="text-decoration: none;">
+        <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="30px">
+    </a>
+</div>
 
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px; ">](https://www.instagram.com/_qzadji_?igsh=bGx3djFjeHhheTFm)
+---
 
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px" >](https://www.facebook.com/kadir.yazadji.1)
+### My Languages
+<div style="display: flex; align-items: center;">
+    <img src="https://cdn2.iconfinder.com/data/icons/world-flags-1-1/100/Britain-512.png" width="30px" style="padding-right: 20px;">
+    <img src="https://cdn1.iconfinder.com/data/icons/national-flag-circle-flat-style/512/Bulgaria-512.png" width="32px">
+</div>
 
 ---
 
