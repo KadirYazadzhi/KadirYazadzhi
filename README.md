@@ -34,6 +34,8 @@
 ---
 
 ### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
+<div style="display: flex; align-items: center;">
+    
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-right:10px; margin-top:10px;" />
 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right:10px; margin-top:10px;" />
@@ -65,3 +67,15 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right:10px; margin-top:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="margin-right:10px; margin-top:10px;" />
+
+</div>
+
+<br>
+<br>
+
+<div style="display: flex; align-items: center;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact" alt="KadirYazadzhi" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en" alt="KadirYazadzhi" /></p>
+</div>
+
+
