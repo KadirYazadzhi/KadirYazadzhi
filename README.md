@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px">](https://www.instagram.com/_qzadji_?igsh=bGx3djFjeHhheTFm)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px; ">](https://www.instagram.com/_qzadji_?igsh=bGx3djFjeHhheTFm)
 
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">](https://www.facebook.com/kadir.yazadji.1)
+[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px" >](https://www.facebook.com/kadir.yazadji.1)
 
 ---
 
