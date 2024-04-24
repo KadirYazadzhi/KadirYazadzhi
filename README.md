@@ -5,8 +5,8 @@
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I am currently working on multiple projects of various natures (console and web oriented).
-- 🌱 I am currently studying at a vocational high school in economics, majoring in "Economic Informatics".
-- 🤔 I’m looking for help with find a work as programmer.
+- 🌱 I am currently studying at a Professional high school of economics, majoring in "Economic Informatics".
+- 🤔 I’m looking for job as a programmer.
 - 💬 Ask me about everything in programming.
 - 📫 How to reach me: kadiryazadzhi@gmail.com
 - 🌐 You can find more information about me on my website: https://kadiryazadzhi.github.io/portfolio/
