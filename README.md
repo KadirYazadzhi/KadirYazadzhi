@@ -78,8 +78,4 @@
     <p>&nbsp;<img style="height: 200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en" alt="KadirYazadzhi" /></p>
 </div>
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31srujl23t3xc6p6djlkumvlexum">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31srujl23t3xc6p6djlkumvlexum" alt="Data Card for Spotify">
-</a>
-
 
