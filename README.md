@@ -1,5 +1,5 @@
 ### Hi there, I'm Kadir 👋
-### Enthusiastic Software Engineer
+### An Enthusiastic Software Engineer
 
 ---
 
