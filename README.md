@@ -74,8 +74,12 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact" alt="KadirYazadzhi" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en" alt="KadirYazadzhi" /></p>
+    <p><img style="height: 200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact" alt="KadirYazadzhi" /></p>
+    <p>&nbsp;<img style="height: 200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en" alt="KadirYazadzhi" /></p>
 </div>
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31srujl23t3xc6p6djlkumvlexum">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31srujl23t3xc6p6djlkumvlexum" alt="Data Card for Spotify">
+</a>
 
 
