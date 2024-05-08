@@ -74,8 +74,8 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <p><img style="height: 200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact" alt="KadirYazadzhi" /></p>
-    <p>&nbsp;<img style="height: 200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en" alt="KadirYazadzhi" /></p>
+    <p><img style="height: 180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact" alt="KadirYazadzhi" /></p>
+    <p>&nbsp;<img style="height: 180px" align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en" alt="KadirYazadzhi" /></p>
 </div>
 
 
