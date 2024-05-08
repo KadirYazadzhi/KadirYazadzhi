@@ -28,7 +28,7 @@
 
 ---
 
-### My Languages
+### My Languages:
 <div style="display: flex; align-items: center;">
     <img src="https://cdn2.iconfinder.com/data/icons/world-flags-1-1/100/Britain-512.png" width="30px" style="padding-right: 20px;">
     <img src="https://cdn1.iconfinder.com/data/icons/national-flag-circle-flat-style/512/Bulgaria-512.png" width="32px">
