@@ -1,5 +1,6 @@
 ### Hi there, I'm Kadir 👋
-### I'm a C++/C# Developer and Full Stack Web Developer
+### Enthusiastic Software Engineer
+
 ---
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
