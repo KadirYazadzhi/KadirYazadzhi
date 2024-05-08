@@ -1,3 +1,4 @@
+![Header](./header-image.png)
 
 ### <h1 align="center">Hi there, I'm Kadir 👋</h1>
 ### <h3 align="center">An Enthusiastic Software Engineer</h3>
