@@ -9,6 +9,7 @@
 
 - 🔭 I am currently working on multiple projects of various natures (console and web oriented).
 - 🌱 I am currently studying at a Professional high school of economics, majoring in "Economic Informatics".
+- 📚 And I am studying Software Engineering with C# in Software University.
 - 🤔 I’m looking for job as a programmer.
 - 💬 Ask me about everything in programming.
 - 📫 How to reach me: kadiryazadzhi@gmail.com
