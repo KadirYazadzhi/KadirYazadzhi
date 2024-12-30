@@ -13,7 +13,8 @@
 - 🤔 I’m looking for job as a programmer.
 - 💬 Ask me about everything in programming.
 - 📫 How to reach me: kadiryazadzhi@gmail.com
-- 🌐 You can find more information about me on my website: https://kadiryazadzhi.github.io/portfolio/
+- 🌐 You can find more information about me on my portfolio website: https://kadiryazadzhi.github.io/portfolio/
+- 📑 You can learn more about the trainings I've completed and the knowledge I've gained on my website: https://kadiryazadzhi.github.io/Cybersecurity-Website/
 
 ---
 
