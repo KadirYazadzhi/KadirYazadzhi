@@ -1,5 +1,15 @@
 ![Header](./header-image.png)
 
+<p align="center">
+  <a href="https://www.facebook.com/kadir.yazadji.1"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_qzadji_?igsh=bGx3djFjeHhheTFm"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kadiryazadzhi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kyuya_2020g@pgiblg.com"><img src="https://img.shields.io/badge/Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kadiryazadzhi.github.io/portfolio"><img src="https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kadiryazadzhi.github.io/portfolio"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
 ### <h1 align="center">Hi there, I'm Kadir 👋</h1>
 ### <h3 align="center">An Enthusiastic Software Engineer</h3>
 
@@ -16,17 +26,6 @@
 - 🌐 You can find more information about me on my portfolio website: https://kadiryazadzhi.github.io/portfolio/
 - 📑 You can learn more about the trainings I've completed and the knowledge I've gained on my website: https://kadiryazadzhi.github.io/Cybersecurity-Website/
 
----
-
-### Connect with me:
-<div style="display: flex; align-items: center; margin: 10px">
-    <a href="https://www.instagram.com/_qzadji_?igsh=bGx3djFjeHhheTFm" style="text-decoration: none;">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="30px" style="padding-right: 20px;">
-    </a>
-    <a href="https://www.facebook.com/kadir.yazadji.1" style="text-decoration: none;">
-        <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="30px">
-    </a>
-</div>
 
 ---
 
