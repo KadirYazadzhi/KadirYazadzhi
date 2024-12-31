@@ -53,4 +53,8 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=KadirYazadzhi&bg_color=1a1b27&color=99c1f1&line=70a5fd&point=99c1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
