@@ -7,13 +7,10 @@
   <a href="mailto:kyuya_2020g@pgiblg.com"><img src="https://img.shields.io/badge/Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/kadiryazadzhi"><img src="https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/KadirYazadzhi34/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
 
-### <h1 align="center">Hi there, I'm Kadir 👋</h1>
-### <h3 align="center">An Enthusiastic Software Engineer</h3>
-
----
+<h1 align="center">Hi there, I'm Kadir 👋</h1>
+<h3 align="center">An Enthusiastic Software Engineer</h3>
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -27,24 +24,19 @@
 - 📑 You can learn more about the trainings I've completed and the knowledge I've gained on my website: https://kadiryazadzhi.github.io/Cybersecurity-Website/
 
 
----
-
-### My Languages:
+## My Languages:
 <div style="display: flex; align-items: center;">
     <img src="https://cdn2.iconfinder.com/data/icons/world-flags-1-1/100/Britain-512.png" width="30px" style="padding-right: 20px;">
     <img src="https://cdn1.iconfinder.com/data/icons/national-flag-circle-flat-style/512/Bulgaria-512.png" width="32px">
 </div>
 
----
 
-### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
+## <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
 <div style="display: flex; align-items: center;">
     
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,c,cpp,cs,py,mysql,postgres,bash,powershell,git,github,linux,kali,clion,rider,webstorm,vscode)](https://skillicons.dev)
 
 </div>
-
----
 
 <div style="display: flex; align-items: center">
     <p><img style="height: 180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KadirYazadzhi" /></p>
