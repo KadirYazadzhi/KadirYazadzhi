@@ -9,7 +9,7 @@
   <a href="https://leetcode.com/u/KadirYazadzhi34/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center">Hi there, I'm Kadir 👋</h1>
+<h1 align="center">Hi there, I'm Kadir 👋</h1> 
 <h3 align="center">An Enthusiastic Software Engineer</h3>
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -24,11 +24,17 @@
 - 📑 You can learn more about the trainings I've completed and the knowledge I've gained on my website: https://kadiryazadzhi.github.io/Cybersecurity-Website/
 
 
-## My Languages:
-<div style="display: flex; align-items: center;">
-    <img src="https://cdn2.iconfinder.com/data/icons/world-flags-1-1/100/Britain-512.png" width="30px" style="padding-right: 20px;">
-    <img src="https://cdn1.iconfinder.com/data/icons/national-flag-circle-flat-style/512/Bulgaria-512.png" width="32px">
-</div>
+## 🎯 About Me
+
+I am a motivated and enthusiastic Software Engineer with a deep passion for programming, web development, and cybersecurity. As a student majoring in Economic Informatics and Software Engineering, I aim to combine academic knowledge with practical experience to build innovative solutions and expand my expertise.
+
+  -  🌐 Exploring the fields of cybersecurity and software development to expand my technical expertise.
+  - 📜 Continuously learning new technologies and acquiring certifications to stay current in the ever-evolving tech landscape.
+  - 💡 Developing innovative and practical solutions through diverse projects, from dynamic applications to efficient systems.
+  - 🎓 Combining academic pursuits with real-world challenges to enhance my problem-solving abilities and adaptability.
+
+I am excited to connect with like-minded individuals, contribute to impactful projects, and further grow as a skilled developer.
+
 
 
 ## <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
@@ -38,14 +44,14 @@
 
 </div>
 
+## 📊 Statistics
+
 <div style="display: flex; align-items: center">
     <p><img style="height: 180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KadirYazadzhi" /></p>
     <p>&nbsp;<img style="height: 180px" align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en&theme=tokyonight" alt="KadirYazadzhi" /></p>
 </div>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=KadirYazadzhi&bg_color=1a1b27&color=99c1f1&line=70a5fd&point=99c1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
