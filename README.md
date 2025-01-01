@@ -93,12 +93,11 @@ I am excited to connect with like-minded individuals, contribute to impactful pr
 ## 📊 Statistics
 
 <div style="display: flex; align-items: center">
-    <p><img style="height: 180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KadirYazadzhi" /></p>
-    <p>&nbsp;<img style="height: 180px" align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en&theme=tokyonight" alt="KadirYazadzhi" /></p>
+    <p><img style="height: 200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KadirYazadzhi" /></p>
+    <p>&nbsp;<img style="height: 200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en&theme=tokyonight&layout=compact&langs_count=8&card_width=320" alt="KadirYazadzhi" /></p>
 </div>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=KadirYazadzhi&bg_color=1a1b27&color=99c1f1&line=70a5fd&point=99c1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=KadirYazadzhi&theme=tokyonight)](https://github.com/KadirYazadzhi)
 
