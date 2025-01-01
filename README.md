@@ -96,7 +96,7 @@ I am excited to connect with like-minded individuals, contribute to impactful pr
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en&theme=tokyonight" />
 </a>
 <a href="https://github.com/KadirYazadzhi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&layout=compact&theme=tokyonight&langs_count=8&card_width=325" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&layout=compact&theme=tokyonight&langs_count=8&card_width=326" />
 </a>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=KadirYazadzhi&bg_color=1a1b27&color=99c1f1&line=70a5fd&point=99c1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
