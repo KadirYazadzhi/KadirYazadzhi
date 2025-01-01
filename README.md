@@ -92,16 +92,11 @@ I am excited to connect with like-minded individuals, contribute to impactful pr
 
 ## 📊 Statistics
 
-<div style="display: flex; align-items: center">
-    <p><img style="height: 200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KadirYazadzhi" /></p>
-    <p><img style="height: 200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en&theme=tokyonight alt="KadirYazadzhi" /></p>
-</div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/KadirYazadzhi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/KadirYazadzhi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&layout=compact&theme=tokyonight&langs_count=8&card_width=330" />
 </a>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=KadirYazadzhi&bg_color=1a1b27&color=99c1f1&line=70a5fd&point=99c1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
