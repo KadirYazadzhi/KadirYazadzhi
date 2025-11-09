@@ -26,14 +26,14 @@
 
 ## 🎯 About Me
 
-I am a motivated and enthusiastic Software Engineer with a deep passion for programming, web development, and cybersecurity. As a student majoring in Economic Informatics and Software Engineering, I aim to combine academic knowledge with practical experience to build innovative solutions and expand my expertise.
+I am a motivated and enthusiastic Software Engineer with a passion for programming, problem-solving, and exploring emerging technologies. As a student of Artificial Intelligence and Software Engineering, I strive to combine academic learning with practical experience to create meaningful and efficient solutions.
 
-  - 🌐 Exploring the fields of cybersecurity and software development to expand my technical expertise.
-  - 📜 Continuously learning new technologies and acquiring certifications to stay current in the ever-evolving tech landscape.
-  - 💡 Developing innovative and practical solutions through diverse projects, from dynamic applications to efficient systems.
-  - 🎓 Combining academic pursuits with real-world challenges to enhance my problem-solving abilities and adaptability.
+- 🌐 Constantly exploring software development, cybersecurity, systems, and technology trends.
+- 📜 Always learning, experimenting, and expanding my technical horizons.
+- 💡 Building diverse projects that challenge me to think critically and innovate.
+- 🎓 Bridging theoretical knowledge with practical challenges to grow as a developer.
 
-I am excited to connect with like-minded individuals, contribute to impactful projects, and further grow as a skilled developer.
+I enjoy connecting with like-minded individuals, contributing to impactful projects, and continually advancing my skills.
 
 
 ## 🎓 Certifications and Courses 💻
