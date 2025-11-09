@@ -14,14 +14,14 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I am currently working on multiple projects of various natures (console and web oriented).
-- 🌱 I am currently studying at a Professional high school of economics, majoring in "Economic Informatics".
-- 📚 And I am studying Software Engineering with C# in Software University.
-- 🤔 I’m looking for job as a programmer.
-- 💬 Ask me about everything in programming.
+- 🔭 I am developing projects ranging from web applications to backend and databases, exploring modern technologies and software architecture.
+- 🌱 I am currently studying Artificial Intelligence at TU Varna, pursuing a Bachelor's degree.
+- 📚 I am also continuing my studies in Software Engineering with C# at Software University.
+- 🤔 I am looking for opportunities as a programmer.
+- 💬 Feel free to ask me anything about programming.
 - 📫 How to reach me: kadiryazadzhi@gmail.com
-- 🌐 You can find more information about me on my portfolio website: https://kadiryazadzhi.github.io/portfolio/
-- 📑 You can learn more about the trainings I've completed and the knowledge I've gained on my website: https://kadiryazadzhi.github.io/Cybersecurity-Website/
+- 🌐 More information about me can be found on my portfolio: [Portfolio](https://kadiryazadzhi.github.io/portfolio/)
+- 📑 You can explore my completed trainings and acquired knowledge on my website: [Cybersecurity Website](https://kadiryazadzhi.github.io/Cybersecurity-Website/)
 
 
 ## 🎯 About Me
