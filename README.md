@@ -36,23 +36,16 @@ I am a motivated and enthusiastic Software Engineer with a passion for programmi
 I enjoy connecting with like-minded individuals, contributing to impactful projects, and continually advancing my skills.
 
 
-## 🎓 Certifications and Courses 💻
+## 🎓 Certifications & Learning 💻
 
-### 🖥️ Software University
-Completed multiple programming courses covering C, C++, C#, Python, TypeScript, web development, databases (MySQL, MSSQL), algorithms, data structures, and OOP concepts. [View all trainings](https://softuni.bg/trainings)
+I am constantly expanding my knowledge across the IT spectrum, completing courses, certifications, and practical challenges to grow as a versatile software engineer and IT professional.
 
-### 🛡️ Hack The Box
-- **Penetration Tester**: Practical ethical hacking exercises.  
-- **Bug Bounty Hunter**: Learning to identify and responsibly disclose vulnerabilities.  
+* **Software University**: Completed programming and development courses in C, C++, C#, Python, TypeScript, web development, databases (MySQL, MSSQL), algorithms, and OOP. [View all trainings](https://softuni.bg/trainings)
+* **Hack The Box**: Hands-on experience with ethical hacking, penetration testing, and security challenges.
+* **AtlasIT & Microsoft**: Gained foundational and advanced skills in web programming and office tools.
+* **HackerRank & Online Platforms**: Strengthened problem-solving, coding skills, and algorithmic thinking across multiple languages.
 
-### 🌐 AtlasIT
-- **Web Programming**: Fundamentals of creating interactive web applications.
-
-### 💻 Microsoft
-- **Microsoft Office Specialist - Excel 2016**
-
-### 💻 HackerRank
-Completed challenges and certifications in CSS, JavaScript, Python, SQL, and problem solving.
+> Focused on learning not just programming, but full-stack systems, DevOps practices, Linux, containerization (Docker, Kubernetes), server management, and self-hosting setups.
 
 
 ## 🚀✨ Future Goals
