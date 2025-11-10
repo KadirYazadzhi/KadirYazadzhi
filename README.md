@@ -21,7 +21,7 @@
 - 💬 Feel free to ask me anything about programming.
 - 📫 How to reach me: kadiryazadzhi@gmail.com
 - 🌐 More information about me can be found on my portfolio: [Portfolio](https://kadiryazadzhi.github.io/portfolio/)
-- 📑 You can explore my completed trainings and acquired knowledge on my website: [Cybersecurity Website](https://kadiryazadzhi.github.io/Cybersecurity-Website/)
+- 📑 You can explore my completed trainings and acquired knowledge on my website: [Blog](https://kadiryazadzhi.github.io/Cybersecurity-Website/)
 
 
 ## 🎯 About Me
@@ -40,7 +40,7 @@ I enjoy connecting with like-minded individuals, contributing to impactful proje
 
 I am constantly expanding my knowledge across the IT spectrum, completing courses, certifications, and practical challenges to grow as a versatile software engineer and IT professional.
 
-* **Software University**: Completed programming and development courses in C, C++, C#, Python, TypeScript, web development, databases (MySQL, MSSQL), algorithms, and OOP. [View all trainings](https://softuni.bg/trainings)
+* **Software University**: Completed programming and development courses in C, C++, C#, Python, TypeScript, web development, databases (MySQL, MSSQL), algorithms, and OOP. 
 * **Hack The Box**: Hands-on experience with ethical hacking, penetration testing, and security challenges.
 * **AtlasIT & Microsoft**: Gained foundational and advanced skills in web programming and office tools.
 * **HackerRank & Online Platforms**: Strengthened problem-solving, coding skills, and algorithmic thinking across multiple languages.
