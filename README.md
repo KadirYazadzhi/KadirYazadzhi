@@ -67,10 +67,10 @@ I am constantly expanding my knowledge across the IT spectrum, completing course
 ## 📊 Statistics
 
 <a href="https://github.com/KadirYazadzhi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=KadirYazadzhi&show_icons=true&locale=en&theme=tokyonight" />
 </a>
 <a href="https://github.com/KadirYazadzhi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KadirYazadzhi&layout=compact&theme=tokyonight&langs_count=8&card_width=326" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=KadirYazadzhi&layout=compact&theme=tokyonight&langs_count=8&card_width=326" />
 </a>
 
 <br>
