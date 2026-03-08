@@ -21,7 +21,7 @@
 - 💬 Feel free to ask me anything about programming.
 - 📫 How to reach me: kadiryazadzhi@gmail.com
 - 🌐 More information about me can be found on my portfolio: [Portfolio](https://kadiryazadzhi.github.io/portfolio/)
-- 📑 You can explore my completed trainings and acquired knowledge on my website: [Digital Garden](https://kadiryazadzhi.github.io/Digital-Garden/)
+- 📑 You can explore my completed trainings and acquired knowledge on my website: [Digital Garden](https://garden.kadiryazadzhi.tech/)
 
 
 ## 🎯 About Me
