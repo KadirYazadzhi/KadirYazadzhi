@@ -22,6 +22,7 @@
 - 📫 How to reach me: kadiryazadzhi@gmail.com
 - 🌐 More information about me can be found on my portfolio: [Portfolio](https://kadiryazadzhi.github.io/portfolio/)
 - 📑 You can explore my completed trainings and acquired knowledge on my website: [Digital Garden](https://garden.kadiryazadzhi.tech/)
+- 🏛️ Explore my [Centralized Tech Archive](https://kadiryazadzhi.tech/): A gateway to my digital ecosystem, featuring live applications, specialized subdomains, and hosted projects.
 
 
 ## 🎯 About Me
